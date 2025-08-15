@@ -1,18 +1,14 @@
 # 👋 Bienvenue sur mon portfolio GitHub
 
-Je suis **Marc**, Data analyst et Data Scientist certifié par OpenClassrooms en partenariat avec respectivement **L'ENSAE-ENSAI** et **CentraleSupélec**. Ce portfolio regroupe mes 15 projets professionnalisants réalisés dans le cadre de ces formations.
+Je suis **Marc**, certifié **Data analyst** (RNCP Niveau 6) et **Data Scientist** (RNCP Niveau 7) par OpenClassrooms en partenariat avec respectivement **L'ENSAE-ENSAI** et **CentraleSupélec**, et **vous présente à travers ce portfolio les 15 projets professionnalisants réalisés** dans le cadre de ces formations.
 
 ---
 
 ## 🧠 Compétences techniques
-Langages : Python, SQL
-
-Machine Learning : Scikit-learn, XGBoost, SHAP
-
-Data Viz : Matplotlib, Seaborn, Power BI
-
-Cloud & Déploiement : AWS, Azure, MLflow, Flask
-
+Langages : Python, SQL  
+Machine Learning : Scikit-learn, XGBoost, SHAP  
+Data Viz : Matplotlib, Seaborn, Power BI  
+Cloud & Déploiement : AWS, Azure, MLflow, Flask  
 Méthodologie : Analyse exploratoire, modélisation, validation, industrialisation
 
 ---
