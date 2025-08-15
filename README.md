@@ -33,8 +33,8 @@ Méthodologie : Analyse exploratoire, modélisation, validation, industrialisati
 
 | Type | Projet | Description |
 |------|--------|-------------|
-| DA | DA_Projet_2 à DA_Projet_9 | Analyse exploratoire, visualisation, prédiction |
-| DS | DS_Projet_2 à DS_Projet_8 | Machine learning, scoring, clustering, cloud |
+| DA | DA_Projet_2 à DA_Projet_9 | Présentations des projets Data Analyst : Analyse exploratoire, visualisation, prédiction |
+| DS | DS_Projet_2 à DS_Projet_8 | Présentations des projets Data Scientist : Machine learning, scoring, clustering, cloud |
 
 > DA_Projet_2-24h-dans-la-peau-d-un-Data-Analyst.pdf  
 > DA_Projet_3-Realisation-d-une-etude-de-sante-publique.pdf  
