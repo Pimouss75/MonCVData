@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon portfolio GitHub
 
-Je suis **Marc**, Data Scientist certifié par OpenClassrooms en partenariat avec **ENSAE-ENSAI** et **CentraleSupélec**. Ce portfolio regroupe mes 15 projets professionnalisants réalisés dans le cadre de ces formations.
+Je suis **Marc**, Data analyst et Data Scientist certifié par OpenClassrooms en partenariat avec respectivement **L'ENSAE-ENSAI** et **CentraleSupélec**. Ce portfolio regroupe mes 15 projets professionnalisants réalisés dans le cadre de ces formations.
 
 ---
 
